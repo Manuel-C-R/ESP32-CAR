@@ -2,6 +2,9 @@
 
 This repository contains the design and implementation details of a robotic platform: a four-wheeled robot car powered by DC motors. The project focuses on developing a versatile and functional robotic system capable of real-time operations.
 
+
+![Front view.](images/FrontView)
+
 ## Features
 
 - **Omnidirectional Movement**: The robot can be controlled to move in any direction.
